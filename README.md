@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Subbi85
- i'm working as a webdeveloper for the last 2 years, after starting write my own project as a hobby .
+ i'm working as a professional webdeveloper since 2019, after starting write my own projects as a hobby.
 
 - 👀 I’m interested in typo3, craftcms, shopware, reactjs, vue.js and many other things
 - 🌱 I’m currently learning php and js-frameworks
