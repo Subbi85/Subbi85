@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in typo3, craftcms, shopware, reactjs, vue.js and many other things
 - 🌱 I’m currently learning php and js-frameworks
-- 📫 How to reach me ...
+- 📫 lars.schleyer-sw.de
 
 <!---
 Subbi85/Subbi85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
